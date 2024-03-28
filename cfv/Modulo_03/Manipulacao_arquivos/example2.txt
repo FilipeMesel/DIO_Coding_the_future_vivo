@@ -1,0 +1,5 @@
+uma nova linha com metodo writeEscrevendoumnovotexto
+Escrevendo
+um
+novo
+texto
